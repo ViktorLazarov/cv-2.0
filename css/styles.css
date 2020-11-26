@@ -1,0 +1,125 @@
+body {
+  margin: 0px;
+  text-align: center;
+  background-color: #dbf6e9;
+  font-family: 'Caveat', cursive;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+
+}
+h2 {
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #66BFBF;
+}
+h3 ,a {
+  color: #11999E;
+}
+p {
+  color: #40514E;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-color: grey;
+  border-width: 5px;
+}
+.btn {
+   background: #AECBEB;
+   background-image: -webkit-linear-gradient(top, #AECBEB, #14D7BB);
+   background-image: -moz-linear-gradient(top, #AECBEB, #14D7BB);
+   background-image: -ms-linear-gradient(top, #AECBEB, #14D7BB);
+   background-image: -o-linear-gradient(top, #AECBEB, #14D7BB);
+   background-image: -webkit-gradient(to bottom, #AECBEB, #14D7BB);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 12px;
+   font-weight: 100;
+   padding: 5px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #FFFFFF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px auto 60px;
+}
+.top-container {
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container {
+
+
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 10px;
+
+}
+.footer-link {
+  padding: 0 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #EAF6F6;
+}
+.footer-p {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+#profile-pic{
+  height: 200px;
+  padding-top: 50px;
+}
+#wannaBe {
+  font-weight: normal;
+}
+#pro {
+  text-decoration: underline;
+}
+#top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+#bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+#trucking {
+  height: 9.375rem;
+  width: 25%;
+  border-radius: 25px;
+  float: left;
+  margin-right: 15px;
+}
+#coding {
+  height: 9.375rem;
+  width: 25%;
+  border-radius: 25px;
+  float: right;
+}
